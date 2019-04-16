@@ -4,7 +4,7 @@ repository: Achab94/Achab94.github.io
 
 # Personal info
 name: Emanuele Degani
-title: PhD Candidate in Statistics, University of Padua
+title: PhD student in Statistics, University of Padua
 email: emanuele.degani@phd.unipd.it
 website: https://achab94.github.io
 
@@ -13,8 +13,6 @@ twitter_username: Achab94
 github_username:  Achab94
 facebook_username: Achab94
 instagram_username: achab94
-# linkedin_username: jameswgrant
-# youtube_username: globalmtb
 
 # About Section
 # about_title: About Me
@@ -43,7 +41,7 @@ more_content: | # this will include new lines to allow paragraphs
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
