@@ -3,22 +3,18 @@ repository: Achab94/Achab94.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Emanuele Degani
+title: PhD Candidate in Statistics, University of Padua
+email: emanuele.degani@phd.unipd.it
+website: https://achab94.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+twitter_username: Achab94
+github_username:  Achab94
+facebook_username: Achab94
+instagram_username: achab94
+# linkedin_username: jameswgrant
+# youtube_username: globalmtb
 
 # About Section
 # about_title: About Me
