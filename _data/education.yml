@@ -4,7 +4,7 @@
   description: | # this will include new lines to allow paragraphs
     Graduated in September 2018 with grade 110/110 _summa cum laude_.
 
-    Thesis title: [Bayesian inference for Support Vector Machines mixture models](files/tesi_magistrale.pdf). Advisor: Prof. Mauro Bernardi.
+    Thesis title: [Bayesian inference for Support Vector Machines mixture models](/files/tesi_magistrale.pdf). Advisor: Prof. Mauro Bernardi.
 
 - name: University of Padua
   dates: 2013 - 2016
