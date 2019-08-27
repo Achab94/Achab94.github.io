@@ -15,11 +15,11 @@ twitter_username: Achab94
 instagram_username: achab94
 github_username:  Achab94
 linkedin_username: emanuele-degani-b55a626a
-#spotify_username: achab94
+spotify_username: Achab94
 
 # About Section
 # about_title: About Me
-about_profile_image: images/foto.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Emanuele Degani and I am a PhD student in Statistics at the Department of Statistical Sciencens, University of Padua, Italy.
 
