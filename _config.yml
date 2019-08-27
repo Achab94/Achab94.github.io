@@ -6,16 +6,16 @@ repository: Achab94/Achab94.github.io
 name: Emanuele Degani
 title: PhD student in Statistics, University of Padua
 email: emanuele.degani@phd.unipd.it
-website: https://achab94.github.io
-telegram: https://t.me/achab94
+website: achab94.github.io
+telegram: t.me/achab94
 
 # Social links
 facebook_username: Achab94
 twitter_username: Achab94
 instagram_username: achab94
 github_username:  Achab94
-linkedin_username: emanuele-degani-b55a626a
-spotify_username: Achab94
+# linkedin_username: emanuele-degani-b55a626a
+# spotify_username: Achab94
 
 # About Section
 # about_title: About Me
