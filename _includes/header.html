@@ -48,13 +48,6 @@
             </a>
           </li>
         {%- endif -%}
-        {%- if site.telegram_username -%}
-          <li>
-            <a target="_blank" href="https://t.me/{{ site.telegram_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
-              <i class="fa fa-telegram" title="Telegram link"></i>
-            </a>
-          </li>
-        {%- endif -%}
 <!--         {%- if site.xing_username -%}
           <li>
             <a target="_blank" href="https://www.xing.com/profile/{{ site.xing_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
@@ -99,7 +92,7 @@
       {%- endif -%}
       {%- if site.telegram -%}
         <p>
-          Write me on Telegram: {% include a.html href=site.telegram %}{{ site.telegram | escape }}</a>
+          Write me on Telegram: <a href="http://t.me/{{ site.email| cgi_escape | escape }}" target="_blank">{{ @site.telegram | escape }}</a>
         </p>
       {%- endif -%}
       {%- if site.phone -%}
