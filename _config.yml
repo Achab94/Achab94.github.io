@@ -18,11 +18,10 @@ linkedin_username: emanuele-degani-b55a626a
 #spotify_username: achab94
 
 # About Section
-# about_title: About Me
-about_profile_image: images/foto_gnecca.jpg
+about_title: About Me
+about_profile_image: images/foto.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Emanuele and I am a PhD student in Statistics in University of Padua, Italy.  
-  **Site is currently on maintenance, sorry for the unconvenient**.
+  Hi, my name is Emanuele Degani and I am a PhD student in Statistics in University of Padua, Italy.
 
 # Projects Section
 # projects_title: Projects
