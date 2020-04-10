@@ -21,14 +21,16 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Emanuele Degani and I am a PhD student in Statistics at the Department of Statistical Sciences, University of Padua, Italy.
 
+  My research interests mostly involves Bayesian statistics, variational approximate inferential methodologies and probabilistic machine learning models.
+
 # Projects Section
 # projects_title: Projects
 
 # Experience Section
-experience_title: Work Experience
+experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # More Section
 # more_title: Extras
