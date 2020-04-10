@@ -5,7 +5,7 @@ repository: Achab94/Achab94.github.io
 # Personal info
 name: Emanuele Degani
 title: PhD student in Statistics, University of Padua
-email: emanuele.degani@phd.unipd.it
+email: degani@stat.unipd.it
 telegram: achab94
 
 
@@ -19,7 +19,7 @@ linkedin_username: emanuele-degani-b55a626a
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Emanuele Degani and I am a PhD student in Statistics at the Department of Statistical Sciencens, University of Padua, Italy.
+  Hi, my name is Emanuele Degani and I am a PhD student in Statistics at the Department of Statistical Sciences, University of Padua, Italy.
 
 # Projects Section
 # projects_title: Projects
